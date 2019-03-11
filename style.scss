@@ -1,0 +1,21 @@
+header {
+.navbar-toggle .icon-bar{
+    background-color: #dedede;
+  }
+  .navbar-toggle{
+    border: solid 1px black;
+  }
+  .navbar-nav > li > a {
+    color: #484c55;
+    &:hover {
+      border-bottom: #0f0f0f;
+    }
+  }
+}
+.section1 {
+  display: flex;
+  flex-direction: row;
+  .col-md-6 {
+    justify-content: center;
+  }
+}

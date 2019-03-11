@@ -1,0 +1,16 @@
+header .navbar-toggle .icon-bar {
+  background-color: #dedede; }
+header .navbar-toggle {
+  border: solid 1px black; }
+header .navbar-nav > li > a {
+  color: #484c55; }
+  header .navbar-nav > li > a:hover {
+    border-bottom: #0f0f0f; }
+
+.section1 {
+  display: flex;
+  flex-direction: row; }
+  .section1 .col-md-6 {
+    justify-content: center; }
+
+/*# sourceMappingURL=style.css.map */
